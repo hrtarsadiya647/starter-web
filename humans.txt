@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-    Hiren     farmer    @tarsahi1
+    Chirag     farmer    @tarsahi1
 
 # THANKS
 
